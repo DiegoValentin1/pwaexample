@@ -1,6 +1,6 @@
 {
     "name": "Prueba PWA A1-Diego Rogel",
-    "start_url": "index.html",
+    "start_url": "https://diegovalentin1.github.io/pwaexample/",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#5285F4",
